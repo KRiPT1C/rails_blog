@@ -3,10 +3,11 @@
 I am but a lowly learner with a long way to go.
 
 So far I have got:
-..1. Ruby installed and running
-..2. Rails installed and running
-..3. Created a Repo and pushed my files up to github
-..4. Changed this read me file
+- Ruby installed and running
+- Rails installed and running
+- Created a Repo and pushed my files up to github
+- Changed this read me file
+- Learned a bit of markdown so this file looks less terrible...
 
 I will update this read me along the way.
 
